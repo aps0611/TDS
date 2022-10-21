@@ -1,0 +1,81 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,218,"SDN","Sudan",1,"Al Jazirah",1,"Al Kamlin","District","District",NA,NA
+2,218,"SDN","Sudan",1,"Al Jazirah",2,"Al Mahagil","District","District",NA,NA
+3,218,"SDN","Sudan",1,"Al Jazirah",3,"East al Gazera","District","District",NA,NA
+4,218,"SDN","Sudan",1,"Al Jazirah",4,"North al Gazera","District","District",NA,NA
+5,218,"SDN","Sudan",1,"Al Jazirah",5,"Sharq al Gazera","District","District",NA,NA
+6,218,"SDN","Sudan",1,"Al Jazirah",6,"South al Gazera","District","District",NA,NA
+7,218,"SDN","Sudan",1,"Al Jazirah",7,"Um Al Gura","District","District",NA,NA
+8,218,"SDN","Sudan",2,"Al Qadarif",8,"Al Faw","District","District",NA,NA
+9,218,"SDN","Sudan",2,"Al Qadarif",9,"Al Fushqa","District","District",NA,NA
+10,218,"SDN","Sudan",2,"Al Qadarif",10,"Al Gadaref","District","District",NA,NA
+11,218,"SDN","Sudan",2,"Al Qadarif",11,"Al Galabat","District","District",NA,NA
+12,218,"SDN","Sudan",2,"Al Qadarif",12,"Al Rahd","District","District",NA,NA
+13,218,"SDN","Sudan",3,"Blue Nile",13,"Ad Damazin","District","District",NA,NA
+14,218,"SDN","Sudan",3,"Blue Nile",14,"Al Kurumik","District","District",NA,NA
+15,218,"SDN","Sudan",3,"Blue Nile",15,"Al Roseires","District","District",NA,NA
+16,218,"SDN","Sudan",3,"Blue Nile",16,"Baw","District","District",NA,NA
+17,218,"SDN","Sudan",3,"Blue Nile",17,"Geissan","District","District",NA,NA
+18,218,"SDN","Sudan",4,"Central Darfur",18,"Mukjar","District","District",NA,NA
+19,218,"SDN","Sudan",4,"Central Darfur",19,"Zallingi","District","District",NA,NA
+20,218,"SDN","Sudan",5,"East Darfur",20,"Al Deain","District","District",NA,NA
+21,218,"SDN","Sudan",5,"East Darfur",21,"Nyala","District","District",NA,NA
+22,218,"SDN","Sudan",6,"Kassala",22,"Al Gash","District","District",NA,NA
+23,218,"SDN","Sudan",6,"Kassala",23,"Hamashkorieb","District","District",NA,NA
+24,218,"SDN","Sudan",6,"Kassala",24,"Kassala","District","District",NA,NA
+25,218,"SDN","Sudan",6,"Kassala",25,"Nahr Atbara","District","District",NA,NA
+26,218,"SDN","Sudan",6,"Kassala",26,"Seteet","District","District",NA,"Steet"
+27,218,"SDN","Sudan",7,"Khartoum",27,"Karary","District","District",NA,NA
+28,218,"SDN","Sudan",7,"Khartoum",28,"Khartoum Bahri","District","District",NA,NA
+29,218,"SDN","Sudan",7,"Khartoum",29,"Khartoum","District","District",NA,NA
+30,218,"SDN","Sudan",7,"Khartoum",30,"Omdurman","District","District",NA,NA
+31,218,"SDN","Sudan",7,"Khartoum",31,"Sharg En Nile","District","District",NA,NA
+32,218,"SDN","Sudan",7,"Khartoum",32,"South Khartoum","District","District",NA,NA
+33,218,"SDN","Sudan",7,"Khartoum",33,"Um Badda","District","District",NA,NA
+34,218,"SDN","Sudan",8,"North Darfur",34,"Al Fasher","District","District",NA,NA
+35,218,"SDN","Sudan",8,"North Darfur",35,"Kabkabiya","District","District",NA,NA
+36,218,"SDN","Sudan",8,"North Darfur",36,"Kutum","District","District",NA,NA
+37,218,"SDN","Sudan",8,"North Darfur",37,"Mellit","District","District",NA,NA
+38,218,"SDN","Sudan",8,"North Darfur",38,"Um Kadada","District","District",NA,NA
+39,218,"SDN","Sudan",9,"North Kurdufan",39,"Bara","District","District",NA,NA
+40,218,"SDN","Sudan",9,"North Kurdufan",40,"Jebrat al Sheikh","District","District",NA,NA
+41,218,"SDN","Sudan",9,"North Kurdufan",41,"Sheikan","District","District",NA,NA
+42,218,"SDN","Sudan",9,"North Kurdufan",42,"Sowdari","District","District",NA,NA
+43,218,"SDN","Sudan",9,"North Kurdufan",43,"Um Rawaba","District","District",NA,NA
+44,218,"SDN","Sudan",10,"Northern",44,"Addabah","District","District",NA,NA
+45,218,"SDN","Sudan",10,"Northern",45,"Dongola","District","District",NA,NA
+46,218,"SDN","Sudan",10,"Northern",46,"Merawi","District","District",NA,NA
+47,218,"SDN","Sudan",10,"Northern",47,"Wadi Halfa","District","District",NA,NA
+48,218,"SDN","Sudan",11,"Red Sea",48,"Halayeb","District","District",NA,NA
+49,218,"SDN","Sudan",11,"Red Sea",49,"Port Sudan","District","District",NA,NA
+50,218,"SDN","Sudan",11,"Red Sea",50,"Sinkat","District","District",NA,NA
+51,218,"SDN","Sudan",11,"Red Sea",51,"Tokar","District","District",NA,NA
+52,218,"SDN","Sudan",12,"River Nile",52,"Abu Hamad","District","District",NA,NA
+53,218,"SDN","Sudan",12,"River Nile",53,"Ad Damer","District","District",NA,NA
+54,218,"SDN","Sudan",12,"River Nile",54,"Al Matammah","District","District",NA,NA
+55,218,"SDN","Sudan",12,"River Nile",55,"Atbara","District","District",NA,NA
+56,218,"SDN","Sudan",12,"River Nile",56,"Berber","District","District",NA,NA
+57,218,"SDN","Sudan",12,"River Nile",57,"Shendi","District","District",NA,NA
+58,218,"SDN","Sudan",13,"Sennar",58,"Ad Dinder","District","District",NA,NA
+59,218,"SDN","Sudan",13,"Sennar",59,"Sennar","District","District",NA,NA
+60,218,"SDN","Sudan",13,"Sennar",60,"Singa","District","District",NA,NA
+61,218,"SDN","Sudan",14,"South Darfur",61,"Buram","District","District",NA,NA
+62,218,"SDN","Sudan",14,"South Darfur",62,"Id El Ghanem","District","District",NA,NA
+63,218,"SDN","Sudan",14,"South Darfur",63,"Kas","District","District",NA,NA
+64,218,"SDN","Sudan",14,"South Darfur",64,"Nyala","District","District",NA,NA
+65,218,"SDN","Sudan",14,"South Darfur",65,"Tulus","District","District",NA,NA
+66,218,"SDN","Sudan",15,"South Kurdufan",66,"Abu Jubaiyah","District","District",NA,NA
+67,218,"SDN","Sudan",15,"South Kurdufan",67,"Dilling","District","District",NA,NA
+68,218,"SDN","Sudan",15,"South Kurdufan",68,"Kadugli","District","District",NA,"KADUGLI"
+69,218,"SDN","Sudan",15,"South Kurdufan",69,"Rashad","District","District",NA,NA
+70,218,"SDN","Sudan",15,"South Kurdufan",70,"Talodi","District","District",NA,NA
+71,218,"SDN","Sudan",16,"West Darfur",71,"Al Geneina","District","District",NA,NA
+72,218,"SDN","Sudan",17,"West Kurdufan",72,"Abyei","District","District",NA,NA
+73,218,"SDN","Sudan",17,"West Kurdufan",73,"As Salam","District","District",NA,NA
+74,218,"SDN","Sudan",17,"West Kurdufan",74,"En Nuhud","District","District",NA,NA
+75,218,"SDN","Sudan",17,"West Kurdufan",75,"Ghebeish","District","District",NA,NA
+76,218,"SDN","Sudan",17,"West Kurdufan",76,"Lagawa","District","District",NA,NA
+77,218,"SDN","Sudan",18,"White Nile",77,"Ad Douiem","District","District",NA,NA
+78,218,"SDN","Sudan",18,"White Nile",78,"Al Gutaina","District","District",NA,NA
+79,218,"SDN","Sudan",18,"White Nile",79,"Al Jabalian","District","District",NA,NA
+80,218,"SDN","Sudan",18,"White Nile",80,"Kosti","District","District",NA,NA
